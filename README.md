@@ -17,7 +17,7 @@ Install the development version from GitHub:
 
 ```r
 # install.packages("remotes")
-remotes::install_github("YOUR-USERNAME/slidingwindows")
+remotes::install_github("frenet93/slidingwindows")
 ```
 
 ## Example
