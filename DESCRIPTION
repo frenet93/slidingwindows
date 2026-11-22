@@ -1,0 +1,15 @@
+Package: slidingwindows
+Title: Sliding Window Algorithms for Three-Dimensional Time Series
+Version: 0.0.0.9000
+Authors@R: 
+    person("Fredh", "Netterström Wedin", , "fredh.netterstrom.wedin@ki.se", role = c("aut", "cre"))
+Description: Provides functions to import and process three-dimensional time-series data, calculate Euclidean norms, apply sliding-window algorithms, and visualize the results.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    ggplot2
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Depends: 
+    R (>= 3.5)
+LazyData: true
